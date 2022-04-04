@@ -21,6 +21,21 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Chapter 3 - Lesson 7.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chapter 4 - Lesson 6.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chapter 5 - Lesson 7.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Practice Exercise 2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Practice Exercises 1.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Programming_Fundamentals_Challenges.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
